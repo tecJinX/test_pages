@@ -1,0 +1,9 @@
+.navbar-dark .navbar-brand, .navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
+  background-image: url("../../assets/img/CCMOUNT.logo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 103px;
+  height: 40px;
+}
+
